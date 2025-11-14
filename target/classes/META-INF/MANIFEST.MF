@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: moham
+Build-Jdk: 21.0.9
+Implementation-Title: Scol_fm
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.isetn
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Scol_fm
+Created-By: Maven Integration for Eclipse
+
